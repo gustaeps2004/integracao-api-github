@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegracaoApiGitHub", "IntegracaoApiGitHub.csproj", "{1BDBA50D-A27E-4A64-A8CE-6B9B22B33148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDBA50D-A27E-4A64-A8CE-6B9B22B33148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDBA50D-A27E-4A64-A8CE-6B9B22B33148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDBA50D-A27E-4A64-A8CE-6B9B22B33148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDBA50D-A27E-4A64-A8CE-6B9B22B33148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDBD1D56-E791-40F1-AE12-A72B758AAF77}
+	EndGlobalSection
+EndGlobal
