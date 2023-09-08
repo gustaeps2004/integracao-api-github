@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BhoppT94sd26bBt7tnQDixdlS6YSZSHf1mlU45G9MMPXxMLgLOjI1SKAF8AdpATRENjLTPHf8ND/XK0pgAObdA==",
+  "dgSpecHash": "tIoCxqPwg+tHhMvM0H/EdFjPS50i3Mx4WOkH1y932EPJi/1mbkFm9hZoReu3RitD7Nn/9RuYWMp2CAYZuxaJpQ==",
   "success": true,
-  "projectFilePath": "C:\\temp\\AtividadesPOO\\IntegracaoApiGitHub\\IntegracaoApiGitHub.csproj",
+  "projectFilePath": "C:\\temp\\IntegracaoApiGitHub\\IntegracaoApiGitHub\\IntegracaoApiGitHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",

@@ -1,10 +1,11 @@
 ﻿using IntegracaoApiGitHub.Entities;
+using IntegracaoApiGitHub.Interfaces;
 using Newtonsoft.Json;
 using RestSharp;
 
 namespace IntegracaoApiGitHub.Services
 {
-    public class GitHubServices
+    public class GitHubServices : IGitHub
     {
         public async Task<GitHub> Integracao(string username)
         {
@@ -42,6 +43,6 @@ namespace IntegracaoApiGitHub.Services
                     Message = ex.Message
                 };
             }
-        } 
+        }
     }
 }
